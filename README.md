@@ -1,13 +1,4 @@
----
-title: Face Recognition for Student Attendance
-emoji: 👨‍🎓
-colorFrom: blue
-colorTo: purple
-sdk: streamlit
-sdk_version: "1.32.0"
-app_file: app.py
-pinned: false
----
+
 # Face Recognition for Student Attendance
 
 Aplikasi berbasis Deep Learning untuk mengenali wajah mahasiswa Institut Teknologi Sumatera.
